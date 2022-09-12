@@ -2,7 +2,7 @@ package familia58;
 
 import java.util.Scanner;
 
-public class Exercicio4DoWhile {
+public class Exercicio4While {
 
 	public static void main(String[] args) {
 
